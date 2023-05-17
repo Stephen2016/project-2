@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(160, 156, 173);
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid white;
+}
+.img-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.link-items{
+    margin-left: 100px;
+}
